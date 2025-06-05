@@ -1,0 +1,6 @@
+name = input("What is your full name?")
+print(f"Seu nome compelto é {name}")
+name1 = name.split()
+print(f"Your first name is {name1[0]}")
+print(f"Your last name is {name1[-1]}")
+print("Thank you, you're welcome")
